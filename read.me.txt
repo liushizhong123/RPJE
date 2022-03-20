@@ -1,0 +1,3 @@
+文件执行入口在Train_RPJE_demo.py 
+数据集入口：data_FB15K
+run: python Train_RPJE_demo.py 
